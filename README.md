@@ -5,6 +5,7 @@ Research Assistant at the Swiss Seismological Service (ETH Zürich), preparing a
 from my MSc thesis on deep-learning rockfall detection related to the 2025 Blatten collapse.
 MSc Applied Geophysics (ETH Zürich, TU Delft, RWTH Aachen), 2026. Based in Zürich.
 
+- [chquake](https://github.com/olivier-meyers/chquake): open earthquake catastrophe model for Swiss residential buildings (work in progress, ERM-CH23 benchmark planned)
 - [Blatten rockfall detection](https://github.com/olivier-meyers/blatten-rockfall-detection): finding rockfall in continuous seismic data
 - [Bedretto seismic denoising](https://github.com/olivier-meyers/bedretto-seismic-denoising): deep-learning denoising of acoustic-emission recordings from the Bedretto Underground Laboratory
 
